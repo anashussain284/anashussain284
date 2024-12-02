@@ -8,10 +8,10 @@ Welcome to my GitHub! I'm a **Senior PHP Developer** with over **6 years of expe
 
 - **Backend Development**: PHP (Laravel, CodeIgniter), Python
 - **API Architecture**: RESTful APIs, Third-Party Integrations
-- **Cloud Services**: AWS (EC2, S3), Cloud-Native Architecture
+- **Cloud Services**: AWS (EC2, S3)
 - **Database Optimization**: MySQL, PostgreSQL, Query Optimization
 - **DevOps & CI/CD**: GitHub Actions, Crontab, CI/CD Pipelines
-- **Version Control**: Git, GitHub, Bitbucket
+- **Version Control**: Git, GitHub
 - **Security**: JWT, OAuth, Encryption Techniques
 - **Web Technologies**: HTML, CSS, JavaScript, jQuery, Bootstrap
 
