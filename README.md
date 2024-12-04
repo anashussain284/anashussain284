@@ -1,29 +1,64 @@
-# 👋 Hi, I'm Anas Hussain M | Senior Laravel Developer
+# 👨‍💻 **Anas Hussain M**  
+**Laravel Developer | Backend Engineer | API Specialist**
 
-### 🚀 About Me  
-I'm a passionate **Laravel Developer** with 6+ years of experience in **backend development**, **RESTful API design**, and **scalable web application development**. I focus on crafting high-quality solutions that are secure, optimized, and aligned with industry best practices.  
+🌟 Passionate about developing efficient, scalable, and secure backend solutions. With **6+ years of experience**, I specialize in **Laravel**, **API design**, and **MySQL optimization** to deliver robust applications that enhance functionality and performance.
 
-### 🔧 Skills & Expertise  
-- **Backend Development**: Laravel, CodeIgniter  
-- **Database Management**: MySQL, PostgreSQL, SQLite (with advanced query optimizations)  
-- **API Development**: RESTful APIs, OAuth2, JWT (Passport, Sanctum)  
-- **DevOps Tools**: GitHub Actions, AWS (EC2, S3), CI/CD Pipelines  
-- **Design Patterns**: Repository, Service, Singleton, and more  
+---
 
-### 🌟 Achievements  
-- Reduced **query execution time by 20%** for a high-traffic Laravel application.  
-- Integrated **15+ third-party services** to enhance system functionality.  
-- Successfully led teams to deliver projects on time while maintaining code quality.  
+## 🛠️ **Tech Stack & Expertise**  
 
-## 🌱 What I’m Learning
+### **Backend Development**  
+- Frameworks: **Laravel (v7.x–v11.x)**, **CodeIgniter**  
+- Languages: **PHP**, **SQL**, **JavaScript**, **Shell Scripting**  
+- API Development: **RESTful APIs**, **OAuth2**, **JWT (Laravel Passport, Sanctum)**  
+- Design Principles: **SOLID**, **DRY**, **KISS**  
+- Design Patterns: **Repository**, **Service**, **Observer**, **Factory**, **Singleton**
 
-Continuously expanding my knowledge in:
-- **Advanced PHP patterns** and **scalable architectures**
-- **Containerization** (Docker, Kubernetes) for PHP applications
-- **Cloud-native services** for enhancing system resilience
+### **Performance & Optimization**  
+- Database Expertise: **MySQL**, **PostgreSQL**, **SQLite**  
+- Performance Tuning: **Data Indexing**, **Query Optimization**  
+- Caching Techniques: **Memcached**, Eager/Lazy Loading  
 
-### 📫 How to Reach Me  
-- [LinkedIn](https://www.linkedin.com/in/anashussain284)  
-- [Email](mailto:anashussain284@gmail.com)  
+### **DevOps & Tools**  
+- CI/CD: **GitHub Actions**  
+- Version Control: **Git**, **GitHub**, **GitLab**  
+- Cloud Platforms: **AWS (EC2, S3, CloudWatch)**  
 
-Let's collaborate and build something amazing!
+### **Laravel Advanced Skills**  
+- Test-Driven Development: **PHPUnit**  
+- Security: **CSRF Prevention**, **SQL Injection Prevention**, **Encryption (AES-256-CBC)**  
+- Advanced Features: **Queues/Jobs**, **Task Scheduling**, **Dependency Injection**  
+
+---
+
+## 📈 **Achievements**  
+- Reduced **query execution time by 10%** for high-traffic Laravel applications.  
+- Successfully integrated **15+ third-party APIs** to enhance system functionality.  
+- Built and deployed **blockchain applications** using Trongrid API for airdrop services.  
+- Automated **CI/CD pipelines** using GitHub Actions to improve deployment efficiency.  
+- Led a team of **10 engineers**, ensuring timely project delivery and code quality.
+
+---
+
+## 📚 **Certifications**  
+- **Laravel v11 Certification** (_2024_)  
+- **GitHub Pull Shark Achievement**: [View Badge](https://github.com/anashussain284?achievement=pull-shark&tab=achievements)
+
+---
+
+## 🔍 **What I’m Working On**  
+- Enhancing scalable **backend architectures** with Laravel.  
+- Learning advanced **backend engineering concepts** through Interview Kickstart.  
+- Contributing to open-source projects to give back to the developer community.
+
+---
+
+## 🎯 **Let's Collaborate!**  
+I’m open to **collaborative projects**, **freelance opportunities**, and **consulting roles** related to Laravel, API design, or backend engineering. Feel free to reach out! 🚀
+
+---
+
+**📫 Contact Me Anytime**  
+- **Email:** [anashussain284@gmail.com](mailto:anashussain284@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/anashussain284](https://www.linkedin.com/in/anashussain284)  
+- **GitHub:** [github.com/anashussain284](https://github.com/anashussain284)
