@@ -62,4 +62,4 @@ I’m open to **collaborative projects**, **freelance opportunities**, and **con
 - **Email:** [anashussain284@gmail.com](mailto:anashussain284@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/anashussain284](https://www.linkedin.com/in/anashussain284)  
 - **GitHub:** [github.com/anashussain284](https://github.com/anashussain284)
-- **Stack Overflow:** [https://stackoverflow.com/users/14830068/anas-hussain-m?tab=profile](https://stackoverflow.com/users/14830068/anas-hussain-m?tab=profile)  
+- **Stack Overflow:** [https://stackoverflow.com/users/14830068/anas-hussain-m](https://stackoverflow.com/users/14830068/anas-hussain-m)  
