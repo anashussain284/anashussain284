@@ -1,7 +1,7 @@
 # 👨‍💻 **Anas Hussain M**  
 **Laravel Developer | Backend Engineer | API Specialist**
 
-🌟 Passionate about developing efficient, scalable, and secure backend solutions. I specialize in **Laravel**, **API design**, and **MySQL optimization** to deliver robust applications that enhance functionality and performance.  
+🌟 Passionate about developing efficient, scalable, and secure backend solutions. With **6+ years of experience**, I specialize in **Laravel**, **API design**, and **MySQL optimization** to deliver robust applications that enhance functionality and performance.
 
 ---
 
