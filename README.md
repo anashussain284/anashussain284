@@ -1,42 +1,54 @@
-# 👨‍💻 **Anas Hussain M**  
-**Laravel Developer | Backend Engineer | API Specialist**
+# 👋 Hi, I'm Anas Hussain M  
+🔧 **TALL Stack Developer** | 🌐 **Laravel Enthusiast** | 🚀 **Scalable Web Applications Expert | REST API Specialist**
 
-🌟 Passionate about developing efficient, scalable, and secure backend solutions. With **6+ years of experience**, I specialize in **Laravel**, **API design**, and **MySQL optimization** to deliver robust applications that enhance functionality and performance.
+## 🚀 About Me  
+I’m a **full-stack web developer** with 6+ years of experience in **backend and frontend development**. My expertise lies in:  
+- Optimizing database performance using **MySQL** and **PostgreSQL**.  
+- Developing **secure RESTful APIs** and **scalable web applications**.  
+- Applying **SOLID principles** and design patterns for maintainable solutions.  
+- Proficient in **Laravel**, **Alpine.js**, **Tailwind CSS**, and **Livewire** for dynamic user experiences.  
 
 ---
 
 ## 🛠️ **Tech Stack & Expertise**  
 
 ### **Backend Development**  
+- Design Principles: **SOLID**, **DRY**, **KISS**  
 - Frameworks: **Laravel (v7.x–v11.x)**, **CodeIgniter**  
 - Languages: **PHP**, **SQL**, **JavaScript**, **Shell Scripting**  
 - API Development: **RESTful APIs**, **OAuth2**, **JWT (Laravel Passport, Sanctum)**  
-- Design Principles: **SOLID**, **DRY**, **KISS**  
 - Design Patterns: **Repository**, **Service**, **Observer**, **Factory**, **Singleton**
 
 ### **Performance & Optimization**  
+- Caching Techniques: **Memcached**, Eager/Lazy Loading  
 - Database Expertise: **MySQL**, **PostgreSQL**, **SQLite**  
 - Performance Tuning: **Data Indexing**, **Query Optimization**  
-- Caching Techniques: **Memcached**, Eager/Lazy Loading  
 
 ### **DevOps & Tools**  
+- Docker
 - CI/CD: **GitHub Actions**  
-- Version Control: **Git**, **GitHub**, **GitLab**  
 - Cloud Platforms: **AWS (EC2, S3, CloudWatch)**  
+- Version Control: **Git**, **GitHub**, **GitLab**  
 
 ### **Laravel Advanced Skills**  
 - Test-Driven Development: **PHPUnit**  
-- Security: **CSRF Prevention**, **SQL Injection Prevention**, **Encryption (AES-256-CBC)**  
 - Advanced Features: **Queues/Jobs**, **Task Scheduling**, **Dependency Injection**  
+- Security: **CSRF Prevention**, **SQL Injection Prevention**, **Encryption (AES-256-CBC)**  
+
+### **Frontend Development**
+- Blade Templating  
+- Bootstrap, jQuery
+- HTML, CSS, Javascript
+- Alpine.js, Tailwind CSS
 
 ---
 
 ## 📈 **Achievements**  
-- Reduced **query execution time by 10%** for high-traffic Laravel applications.  
-- Successfully integrated **third-party APIs** to enhance system functionality.  
-- Built and deployed **blockchain applications** using Trongrid API for airdrop services.  
-- Automated **CI/CD pipelines** using GitHub Actions to improve deployment efficiency.  
+- Successfully integrated **third-party APIs** to enhance system functionality. 
+- Reduced **query execution time by 10%** for high-traffic Laravel applications.   
 - Led a team of **10 engineers**, ensuring timely project delivery and code quality.
+- Automated **CI/CD pipelines** using GitHub Actions to improve deployment efficiency.  
+- Built and deployed **blockchain applications** using Trongrid API for airdrop services.  
 
 ---
 
@@ -48,8 +60,8 @@
 
 ## 🔍 **What I’m Working On**  
 - Enhancing scalable **backend architectures** with Laravel.  
-- Learning advanced **backend engineering concepts** through Interview Kickstart.  
 - Contributing to open-source projects to give back to the developer community.
+- Learning advanced **backend engineering concepts** through Interview Kickstart.  
 
 ---
 
@@ -59,7 +71,9 @@ I’m open to **collaborative projects**, **freelance opportunities**, and **con
 ---
 
 **📫 Contact Me Anytime**  
+- **Dev.to:** [dev.to/anashussain284](https://dev.to/anashussain284)  
 - **Email:** [anashussain284@gmail.com](mailto:anashussain284@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/anashussain284](https://www.linkedin.com/in/anashussain284)  
 - **GitHub:** [github.com/anashussain284](https://github.com/anashussain284)
-- **Stack Overflow:** [https://stackoverflow.com/users/14830068/anas-hussain-m](https://stackoverflow.com/users/14830068/anas-hussain-m)  
+- **Leetcode:** [leetcode.com/u/anashussain284/](https://leetcode.com/u/anashussain284)  
+- **LinkedIn:** [linkedin.com/in/anashussain284](https://www.linkedin.com/in/anashussain284)  
+- **Stack Overflow:** [stackoverflow.com/users/14830068/anas-hussain-m](https://stackoverflow.com/users/14830068/anas-hussain-m)
