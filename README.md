@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Anas Hussain M  
-🔧 **TALL Stack Developer** | 🌐 **Laravel Enthusiast** | 🚀 **Scalable Web Applications Expert | REST API Specialist**
+🔧 **Full Stack Developer** | 🌐 **Laravel Enthusiast** | 🚀 **Scalable Web Applications Expert | REST API Specialist**
 
 ## 🚀 About Me  
 I’m a **full-stack web developer** with 6+ years of experience in **backend and frontend development**. My expertise lies in:  
