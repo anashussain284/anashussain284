@@ -2,7 +2,7 @@
 
 Software Engineer from India focused on building scalable backend systems, mastering software architecture, and writing maintainable code.
 
-> "I believe great software is built by engineers who understand why a system works—not just how to make it work."
+> "I believe great software is built by engineers who understand why a system works-not just how to make it work."
 
 ---
 
@@ -97,7 +97,7 @@ I enjoy building software that emphasizes
 - Scalability
 - Simplicity
 
-Code should be easy to understand six months later—not just today.
+Code should be easy to understand six months later-not just today.
 
 ---
 
