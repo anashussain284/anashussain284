@@ -167,14 +167,8 @@ https://dev.to/anashussain284
 💼 LinkedIn  
 https://linkedin.com/in/anashussain284
 
-💻 GitHub  
-https://github.com/anashussain284
-
 📚 Stack Overflow  
 https://stackoverflow.com/users/14830068/anas-hussain-m
-
-🧩 LeetCode  
-https://leetcode.com/u/anashussain284/
 
 📧 Email  
 anashussain284@gmail.com
