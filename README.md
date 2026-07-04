@@ -1,79 +1,184 @@
-# 👋 Hi, I'm Anas Hussain M  
-🔧 **Full Stack Developer** | 🌐 **Laravel Enthusiast** | 🚀 **Scalable Web Applications Expert | REST API Specialist**
+# Hi, I'm Anas Hussain 👋
 
-## 🚀 About Me  
-I’m a **full-stack web developer** with 6+ years of experience in **backend and frontend development**. My expertise lies in:  
-- Optimizing database performance using **MySQL** and **PostgreSQL**.  
-- Developing **secure RESTful APIs** and **scalable web applications**.  
-- Applying **SOLID principles** and design patterns for maintainable solutions.  
-- Proficient in **Laravel**, **Alpine.js**, **Tailwind CSS**, and **Livewire** for dynamic user experiences.  
+Software Engineer from India focused on building scalable backend systems, mastering software architecture, and writing maintainable code.
+
+> "I believe great software is built by engineers who understand why a system works—not just how to make it work."
 
 ---
 
-## 🛠️ **Tech Stack & Expertise**  
+# About Me
 
-### **Backend Development**  
-- Design Principles: **SOLID**, **DRY**, **KISS**  
-- Frameworks: **Laravel (v7.x–v11.x)**, **CodeIgniter**  
-- Languages: **PHP**, **SQL**, **JavaScript**, **Shell Scripting**  
-- API Development: **RESTful APIs**, **OAuth2**, **JWT (Laravel Passport, Sanctum)**  
-- Design Patterns: **Repository**, **Service**, **Observer**, **Factory**, **Singleton**
+- 💼 6+ years building production web applications
+- 🐘 Backend Engineer specializing in PHP & Laravel
+- 🏗 Currently mastering Software Architecture & System Design
+- 📖 Daily learner focused on becoming a world-class software engineer
+- 🌍 Interested in remote engineering opportunities
 
-### **Performance & Optimization**  
-- Caching Techniques: **Memcached**, Eager/Lazy Loading  
-- Database Expertise: **MySQL**, **PostgreSQL**, **SQLite**  
-- Performance Tuning: **Data Indexing**, **Query Optimization**  
+My goal is simple:
 
-### **DevOps & Tools**  
+Build software that is scalable, maintainable, testable and enjoyable for other engineers to work on.
+
+---
+
+# Current Engineering Journey
+
+I am intentionally learning software engineering from fundamentals instead of chasing frameworks.
+
+Current roadmap:
+
+- ✅ Object-Oriented Programming
+- ✅ SOLID Principles
+- 🔄 Design Patterns
+- 🔄 Laravel Internals
+- 🔄 Software Architecture
+- 🔄 Networking for Backend Engineers
+- 🔄 Distributed Systems
+- 🔄 System Design
+- 🔄 Domain Driven Design
+- 🔄 Event Driven Architecture
+- 🔄 Performance Engineering
+- 🔄 Open Source Contributions
+
+---
+
+# Tech Stack
+
+## Backend
+
+- PHP
+- Laravel
+- CodeIgniter
+- REST APIs
+- MySQL
+- PostgreSQL
+- SQLite
+
+## Frontend
+
+- Blade
+- Alpine.js
+- Livewire
+- Tailwind CSS
+- Bootstrap
+- JavaScript
+- jQuery
+
+## DevOps
+
 - Docker
-- CI/CD: **GitHub Actions**  
-- Cloud Platforms: **AWS (EC2, S3, CloudWatch)**  
-- Version Control: **Git**, **GitHub**, **GitLab**  
+- GitHub Actions
+- Linux
+- AWS EC2
+- AWS S3
 
-### **Laravel Advanced Skills**  
-- Test-Driven Development: **PHPUnit**  
-- Advanced Features: **Queues/Jobs**, **Task Scheduling**, **Dependency Injection**  
-- Security: **CSRF Prevention**, **SQL Injection Prevention**, **Encryption (AES-256-CBC)**  
+## Engineering
 
-### **Frontend Development**
-- Blade Templating  
-- Bootstrap, jQuery
-- HTML, CSS, Javascript
-- Alpine.js, Tailwind CSS
-
----
-
-## 📈 **Achievements**  
-- Successfully integrated **third-party APIs** to enhance system functionality. 
-- Reduced **query execution time by 10%** for high-traffic Laravel applications.   
-- Led a team of **10 engineers**, ensuring timely project delivery and code quality.
-- Automated **CI/CD pipelines** using GitHub Actions to improve deployment efficiency.  
-- Built and deployed **blockchain applications** using Trongrid API for airdrop services.  
+- SOLID
+- DRY
+- KISS
+- Dependency Injection
+- Repository Pattern
+- Service Pattern
+- Factory Pattern
+- Observer Pattern
+- PHPUnit
+- Git
 
 ---
 
-## 📚 **Certifications**  
-- **Laravel v11 Certification** (_2024_)  
-- **GitHub Pull Shark Achievement**: [View Badge](https://github.com/anashussain284?achievement=pull-shark&tab=achievements)
+# Engineering Principles
+
+I enjoy building software that emphasizes
+
+- Readability
+- Maintainability
+- Testability
+- Performance
+- Scalability
+- Simplicity
+
+Code should be easy to understand six months later—not just today.
 
 ---
 
-## 🔍 **What I’m Working On**  
-- Enhancing scalable **backend architectures** with Laravel.  
-- Contributing to open-source projects to give back to the developer community.
-- Learning advanced **backend engineering concepts** through Interview Kickstart.  
+# Proof of Work
+
+I use GitHub as a public engineering journal.
+
+Current projects include:
+
+- SOLID Principle Micro Projects
+- Object-Oriented Programming Projects
+- Design Pattern Implementations
+- Laravel Architecture Examples
+- Clean Code Examples
+- System Design Notes
+- Networking Notes
+- Backend Engineering Experiments
+
+Every repository is created with one goal:
+
+Learn deeply by building.
 
 ---
 
-## 🎯 **Let's Collaborate!**  
-I’m open to **collaborative projects**, **freelance opportunities**, and **consulting roles** related to Laravel, API design, or backend engineering. Feel free to reach out! 🚀
+# Currently Writing
+
+I regularly publish technical articles on Dev.to about:
+
+- SOLID Principles
+- Design Patterns
+- Laravel
+- Software Architecture
+- Backend Engineering
+- Clean Code
+- Software Design
 
 ---
 
-**📫 Contact Me Anytime**  
-- **Dev.to:** [dev.to/anashussain284](https://dev.to/anashussain284)  
-- **Email:** [anashussain284@gmail.com](mailto:anashussain284@gmail.com)  
-- **GitHub:** [github.com/anashussain284](https://github.com/anashussain284)
-- **Leetcode:** [leetcode.com/u/anashussain284/](https://leetcode.com/u/anashussain284)  
-- **LinkedIn:** [linkedin.com/in/anashussain284](https://www.linkedin.com/in/anashussain284)  
-- **Stack Overflow:** [stackoverflow.com/users/14830068/anas-hussain-m](https://stackoverflow.com/users/14830068/anas-hussain-m)
+# Currently Learning
+
+- Design Patterns
+- Laravel Internals
+- Dependency Injection Containers
+- Networking
+- System Design
+- Distributed Systems
+- High Performance APIs
+
+---
+
+# 2026 Goals
+
+- Publish 100+ technical articles
+- Build 100 engineering-focused repositories
+- Contribute to Laravel ecosystem
+- Become an active Open Source contributor
+- Master System Design
+- Become a Senior Backend Engineer working remotely
+
+---
+
+# Connect With Me
+
+🌐 Dev.to  
+https://dev.to/anashussain284
+
+💼 LinkedIn  
+https://linkedin.com/in/anashussain284
+
+💻 GitHub  
+https://github.com/anashussain284
+
+📚 Stack Overflow  
+https://stackoverflow.com/users/14830068/anas-hussain-m
+
+🧩 LeetCode  
+https://leetcode.com/u/anashussain284/
+
+📧 Email  
+anashussain284@gmail.com
+
+---
+
+> "Never stop learning. Great engineers are built one concept at a time."
