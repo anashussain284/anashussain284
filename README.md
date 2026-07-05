@@ -8,7 +8,7 @@ Software Engineer from India focused on building scalable backend systems, maste
 
 # About Me
 
-- 💼 6+ years building production web applications
+- 💼 7+ years building production web applications
 - 🐘 Backend Engineer specializing in PHP & Laravel
 - 🏗 Currently mastering Software Architecture & System Design
 - 📖 Daily learner focused on becoming a world-class software engineer
