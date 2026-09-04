@@ -1,175 +1,159 @@
 # Hi, I'm Anas Hussain 👋
 
-Software Engineer from India focused on building scalable backend systems, mastering software architecture, and writing maintainable code.
+**Backend Software Engineer | PHP/Laravel → Go | Backend & Distributed Systems**
 
-> "I believe great software is built by engineers who understand why a system works-not just how to make it work."
-
----
-
-# About Me
-
-- 💼 7+ years building production web applications
-- 🐘 Backend Engineer specializing in PHP & Laravel
-- 🏗 Currently mastering Software Architecture & System Design
-- 📖 Daily learner focused on becoming a world-class software engineer
-- 🌍 Interested in remote engineering opportunities
-
-My goal is simple:
-
-Build software that is scalable, maintainable, testable and enjoyable for other engineers to work on.
+I’m a backend engineer with **7+ years of professional experience**, primarily with PHP and Laravel. I’m currently transitioning to **Go** with a focus on backend engineering, concurrency, networking, distributed systems, and cloud infrastructure.
 
 ---
 
-# Current Engineering Journey
+## 🧑‍💻 About Me
 
-I am intentionally learning software engineering from fundamentals instead of chasing frameworks.
-
-Current roadmap:
-
-- ✅ Object-Oriented Programming
-- ✅ SOLID Principles
-- 🔄 Design Patterns
-- 🔄 Laravel Internals
-- 🔄 Software Architecture
-- 🔄 Networking for Backend Engineers
-- 🔄 Distributed Systems
-- 🔄 System Design
-- 🔄 Domain Driven Design
-- 🔄 Event Driven Architecture
-- 🔄 Performance Engineering
-- 🔄 Open Source Contributions
+|                  |                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| 💼 Experience    | 7+ years of backend development experience                                          |
+| 🏗️ Background   | **PHP, Laravel, REST APIs, SQL, and backend architecture**                          |
+| 🚀 Current Focus | **Go and systems engineering**                                                      |
+| 🌐 Interests     | **Distributed systems, cloud infrastructure, and high-performance backend systems** |
+| 🧠 Learning      | Hands-on projects, source-code exploration, and problem solving                     |
+| 🎯 Opportunities | **Remote and high-impact backend engineering opportunities**                        |
 
 ---
 
-# Tech Stack
+## 🚀 Current Focus
 
-## Backend
-
-- PHP
-- Laravel
-- CodeIgniter
-- REST APIs
-- MySQL
-- PostgreSQL
-- SQLite
-
-## Frontend
-
-- Blade
-- Alpine.js
-- Livewire
-- Tailwind CSS
-- Bootstrap
-- JavaScript
-- jQuery
-
-## DevOps
-
-- Docker
-- GitHub Actions
-- Linux
-- AWS EC2
-- AWS S3
-
-## Engineering
-
-- SOLID
-- DRY
-- KISS
-- Dependency Injection
-- Repository Pattern
-- Service Pattern
-- Factory Pattern
-- Observer Pattern
-- PHPUnit
-- Git
+```text
+PHP/Laravel
+     ↓
+    Go
+     ↓
+Backend Engineering
+     ↓
+Concurrency & Networking
+     ↓
+Distributed Systems
+     ↓
+Cloud & Infrastructure
+     ↓
+System Design
+     ↓
+Open Source
+```
 
 ---
 
-# Engineering Principles
+# 🧭 Current Engineering Journey
 
-I enjoy building software that emphasizes
+### 🧱 Foundations
 
-- Readability
-- Maintainability
-- Testability
-- Performance
-- Scalability
-- Simplicity
+| Status | Focus                       |
+| ------ | --------------------------- |
+| ✅      | Object-Oriented Programming |
+| ✅      | SOLID Principles            |
+| 🔄     | Object Design Fundamentals  |
+| 🔄     | Design Patterns             |
+| 🔄     | Clean Code & Refactoring    |
+| 🔄     | Testing & Testable Design   |
 
-Code should be easy to understand six months later-not just today.
+### 🐹 Go & Backend Engineering
 
----
+| Status | Focus                               |
+| ------ | ----------------------------------- |
+| 🔄     | Go fundamentals                     |
+| 🔄     | Idiomatic Go                        |
+| 🔄     | Go standard library                 |
+| 🔄     | Error handling                      |
+| 🔄     | Concurrency                         |
+| 🔄     | Goroutines & Channels               |
+| 🔄     | HTTP & Networking                   |
+| 🔄     | Testing & Benchmarking              |
+| 🔄     | Profiling & Performance Engineering |
+| 🔄     | Production-grade backend services   |
 
-# Proof of Work
+### ⚙️ Systems Engineering
 
-I use GitHub as a public engineering journal.
+| Status | Focus                          |
+| ------ | ------------------------------ |
+| 🔄     | Linux                          |
+| 🔄     | Networking                     |
+| 🔄     | Operating Systems fundamentals |
+| 🔄     | Databases                      |
+| 🔄     | Caching                        |
+| 🔄     | Message Queues                 |
+| 🔄     | Distributed Systems            |
+| 🔄     | Reliability & Fault Tolerance  |
+| 🔄     | Observability                  |
+| 🔄     | System Design                  |
 
-Current projects include:
+### ☁️ Cloud & Infrastructure
 
-- SOLID Principle Micro Projects
-- Object-Oriented Programming Projects
-- Design Pattern Implementations
-- Laravel Architecture Examples
-- Clean Code Examples
-- System Design Notes
-- Networking Notes
-- Backend Engineering Experiments
+| Status | Focus                                 |
+| ------ | ------------------------------------- |
+| 🔄     | Docker                                |
+| 🔄     | Kubernetes                            |
+| 🔄     | AWS                                   |
+| 🔄     | CI/CD                                 |
+| 🔄     | Cloud-native architecture             |
+| 🔄     | Infrastructure & platform engineering |
 
-Every repository is created with one goal:
+### 🌍 Open Source
 
-Learn deeply by building.
-
----
-
-# Currently Writing
-
-I regularly publish technical articles on Dev.to about:
-
-- SOLID Principles
-- Design Patterns
-- Laravel
-- Software Architecture
-- Backend Engineering
-- Clean Code
-- Software Design
-
----
-
-# Currently Learning
-
-- Design Patterns
-- Laravel Internals
-- Dependency Injection Containers
-- Networking
-- System Design
-- Distributed Systems
-- High Performance APIs
-
----
-
-# 2026 Goals
-
-- Publish 100+ technical articles
-- Build 100 engineering-focused repositories
-- Contribute to Laravel ecosystem
-- Become an active Open Source contributor
-- Master System Design
-- Become a Senior Backend Engineer working remotely
+| Status | Focus                                     |
+| ------ | ----------------------------------------- |
+| 🔄     | Reading mature open-source Go codebases   |
+| 🔄     | Small open-source contributions           |
+| 🔄     | Go ecosystem contributions                |
+| 🔄     | Cloud-native / CNCF ecosystem exploration |
 
 ---
 
-# Connect With Me
+# 🛠️ Tech Stack
 
-🌐 Dev.to  
-https://dev.to/anashussain284
+### 🐹 Primary — Backend & Systems
 
-💼 LinkedIn  
-https://linkedin.com/in/anashussain284
+**Go · PHP · Laravel · REST APIs · HTTP · SQL · PostgreSQL · MySQL**
 
-📧 Email  
-anashussain284@gmail.com
+### ☁️ Cloud & Infrastructure
+
+**Linux · Docker · AWS · AWS EC2 · AWS S3 · GitHub Actions · CI/CD**
+
+### 🧠 Engineering
+
+**Data Structures & Algorithms · Object-Oriented Design · SOLID · Design Patterns · Dependency Injection · Clean Code · Testing · Performance Engineering · System Design · Distributed Systems**
+
+### 🔍 Currently Exploring
+
+**Go concurrency · Networking · Distributed systems · Cloud-native systems · Kubernetes · Observability · High-performance backend systems · Open-source Go projects**
 
 ---
 
-> "Never stop learning. Great engineers are built one concept at a time."
+## ✍️ Writing
+
+I write about software engineering, backend development, Go, system design, clean code, and software architecture.
+
+* 📝 [Dev.to](https://dev.to/anashussain284)
+* 💼 [LinkedIn](https://linkedin.com/in/anashussain284)
+* 📧 [Email](mailto:anashussain284@gmail.com)
+
+---
+
+# 🎯 2026–2027 Goals
+
+* 🎯 Become highly proficient in Go
+* 🎯 Transition from PHP/Laravel backend development to Go backend engineering
+* 🎯 Build production-quality Go projects
+* 🎯 Strengthen Data Structures & Algorithms
+* 🎯 Master LLD and System Design fundamentals
+* 🎯 Develop strong distributed-systems fundamentals
+* 🎯 Improve Linux and networking knowledge
+* 🎯 Build cloud-native engineering skills
+* 🎯 Contribute to open-source projects
+* 🎯 Build a strong public engineering portfolio
+* 🎯 Move into a higher-impact backend/platform engineering role
+
+---
+
+## 🎯 Direction
+
+My goal is to grow from a Laravel backend developer into a **strong Go backend/platform engineer**, capable of designing, building, and operating reliable distributed systems.
+
+> *Great engineers understand not only how a system works, but why it works.*
